@@ -1,0 +1,4 @@
+{
+  "topic_name": "production.eu.clicks.v1",
+  "schema": "click_id STRING, customer_id INT, obj STRING"
+}

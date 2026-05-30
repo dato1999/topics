@@ -1,0 +1,4 @@
+{
+  "topic_name": "production.eu.orders.v1",
+  "schema": "order_id STRING, customer_id INT, store_country STRING, total_amount DOUBLE"
+}
